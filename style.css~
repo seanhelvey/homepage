@@ -1,0 +1,14 @@
+p {
+  text-align: center;
+  font-family: Verdana,Serif;
+  color: #AAA;
+  margin-top: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+
+a {
+  color: #3399FF;
+  text-decoration: none; 
+}
